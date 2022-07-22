@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Sunmin Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Bio"
-  location         : "Somewhere"
-  email            :
+  bio              : "PhD Student in Economics, The Ohio State University"
+  location         : "Columbus, OH, USA"
+  email            : "sunmin.econ@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:sunmin.econ@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
