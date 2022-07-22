@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Sunmin Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"PhD Student in Economics, The Ohio State University"
+  bio              : "PhD Student in Economics"
   location         : "Columbus, OH, USA"
   email            : "sunmin.econ@gmail.com"
   links:
